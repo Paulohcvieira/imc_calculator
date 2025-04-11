@@ -1,0 +1,10 @@
+C:\Users\PAULO.HCVIEIRA\source\repos\UC11 imc_pp\UC11 imc_pp\obj\Debug\UC11 imc_pp.csproj.AssemblyReference.cache
+C:\Users\PAULO.HCVIEIRA\source\repos\UC11 imc_pp\UC11 imc_pp\obj\Debug\UC11_imc_pp.Form1.resources
+C:\Users\PAULO.HCVIEIRA\source\repos\UC11 imc_pp\UC11 imc_pp\obj\Debug\UC11_imc_pp.Properties.Resources.resources
+C:\Users\PAULO.HCVIEIRA\source\repos\UC11 imc_pp\UC11 imc_pp\obj\Debug\UC11 imc_pp.csproj.GenerateResource.cache
+C:\Users\PAULO.HCVIEIRA\source\repos\UC11 imc_pp\UC11 imc_pp\obj\Debug\UC11 imc_pp.csproj.CoreCompileInputs.cache
+C:\Users\PAULO.HCVIEIRA\source\repos\UC11 imc_pp\UC11 imc_pp\bin\Debug\UC11 imc_pp.exe.config
+C:\Users\PAULO.HCVIEIRA\source\repos\UC11 imc_pp\UC11 imc_pp\bin\Debug\UC11 imc_pp.exe
+C:\Users\PAULO.HCVIEIRA\source\repos\UC11 imc_pp\UC11 imc_pp\bin\Debug\UC11 imc_pp.pdb
+C:\Users\PAULO.HCVIEIRA\source\repos\UC11 imc_pp\UC11 imc_pp\obj\Debug\UC11 imc_pp.exe
+C:\Users\PAULO.HCVIEIRA\source\repos\UC11 imc_pp\UC11 imc_pp\obj\Debug\UC11 imc_pp.pdb
